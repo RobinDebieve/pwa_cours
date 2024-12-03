@@ -22,4 +22,4 @@ fetch("data.json")
 }
 setTimeout(e=> {
     ajax()
-},5000)
+},1000)
